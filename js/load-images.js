@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
     console.log("[Git-Project] Target #spin-container element located successfully.");
 
     
-    const gistRawUrl = "https://gist.githubusercontent.com/ng-hongduc/1a03cb278384ebe3dc42994fd4e082a7/raw/fb12e766583e5dee3dda887433379c63863e8b0c/links.json";
+    const gistRawUrl = "https://gist.githubusercontent.com/ng-hongduc/1a03cb278384ebe3dc42994fd4e082a7/raw/links.json";
 
     const injectImages = (links) => {
         links.forEach((src, index) => {
