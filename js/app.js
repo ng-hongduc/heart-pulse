@@ -6,7 +6,7 @@ document.addEventListener("imagesLoaded", () => {
   var imgWidth = 150; // width of images (unit: px)
   var imgHeight = 270; // height of images (unit: px)
 
-  var bgMusicURL = "/mp3/noi_nay_co_anh.mp3";
+  var bgMusicURL = "../mp3/noi_nay_co_anh.mp3";
   var bgMusicControls = false; // Show UI music control
 
   var settings = {
